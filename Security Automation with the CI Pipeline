@@ -1,0 +1,29 @@
+BDD Security framework: https://github.com/continuumsecurity/bdd-security
+Glue: https://github.com/OWASP/glue
+Sentinel: https://github.com/nintexplatform/sentinel
+Grep Rough Audit: https://github.com/wireghoul/graudit
+Flawfinder: http://www.dwheeler.com/falwfinder/
+
+Brakeman: https://github.com/presidentbeef/brakeman
+
+SonarQube: https://www.sonarqube.org/
+
+GREP IT: https://github.com/floyd-fuh/crass/blob/master/grep-it.sh
+
+NodeJs Scan: https://github.com/ajinabraham/NodeJsScan
+
+ScanJS: https://github.com/mozfreddyb/scanjs
+
+ScanJS code scanning rules: http://mozilla.github.io/scanjs/client/#/rules
+Bandit: https://github.com/PyCQA/bandit
+
+ZAP: https://plugins.jenkins.io/zap
+Arachni Scanner: https://plugins.jenkins.io/arachni-scanner
+Dependency check plugin: https://plugins.jenkins.io/dependency-check-jenkins-plugin
+FindBugs: https://plugins.jenkins.io/findbugs
+SonarQube: https://plugins.jenkins.io/sonar
+360 FireLine: https://plugins.jenkins.io/fireline
+HTML Publisher Plugin: https://plugins.jenkins.io/htmlpublisher
+Log Parser Plugin: https://plugins.jenkins.io/log-parser
+Static Analysis Collector: https://plugins.jenkins.io/analysis-collector
+Jenkins Plugins: https://plugins.jenkins.io/﻿
