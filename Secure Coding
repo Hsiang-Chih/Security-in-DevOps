@@ -1,0 +1,52 @@
+OWASP PySec: https://github.com/ebranca/owasp-pysec
+
+NIST Software Assurance Reference Dataset Project: https://samate.nist.gov/SRD/testsuite.php
+
+OWASP Benchmark: https://github.com/OWASP/Benchmark
+OWASP Node JS Goat: https://www.owasp.org/index.php/OWASP_Node_js_Goat_Project
+OWASP WebGoat .Net: https://www.owasp.org/index.php/Category:OWASP_WebGoat.NET
+OWASP WebGoat PHP: https://www.owasp.org/index.php/WebGoatPHP
+OWASP RailsGoat: https://www.owasp.org/index.php/OWASP_Rails_Goat_Project
+
+SWAMP-in-a-Box: https://github.com/mirswamp/deployment
+JackHammer: https://github.com/olacabs/jackhammer
+NCC Code Navi: https://github.com/nccgroup/ncccodenavi
+
+WinMerge: https://winMerge.org/
+OpenGrok: http://oracle.github.io/opengrok/
+Kscope: http://kscope.sourceforge.net/install.shtml
+Doxygen: https://www.stack.nl/~dimitri/doxygen/
+AndroGuard: https://github.com/androguard/androguard
+Retire.JS: https://retireJS.github.io/retire.js/
+Clang Static Analyzer: https://clang-analyzer.llvm.org
+Flawfinder: https://www.dwheeler.com/flawfinder/
+DREK: https://github.com/chrisallenlane/drek
+Pylint: https://www.pylint.org/
+PHPMD: https://phpmd.org/
+DawnScanner: https://github.com/thesp0nge/dawnscanner
+SpotBugs: https://spotbugs.github.io/
+CPP Check: https://cppcheck.sourceforge.net/
+Mobile Security Framework (MobSF): https://github.com/MobSF/Mobile-Security-Framework-MobSF/
+Clang Static Analyzer: http://clang-analyzer.llvm.org/
+ESLint: https://eslint.org/
+JSHint: https://github.com/jshint/jshint
+Infer: http://fbinfer.com/
+
+Phan: https://github.com/phan/phan
+PHP Security Checker: https://security.sensiolabs.org/
+OWASP Dependency check: https://www.owasp.org/index.php/OWASP_Dependency_Check
+VisualCodeGrepper (VCG): https://github.com/nccgroup/VCG
+
+PMD: https://pmd.github.io/
+Graudit: https://github.com/wireghoul/graudit
+Graudit Signatures: https://github.com/wireghoul/graudit/tree/master/signatures
+
+SonarQube: https://www.sonarqube.org/
+Brakeman: https://brakemanscanner.org/
+bandit: https://github.com/PyCQA/bandit
+Error Prone: http://errorprone.info/
+Dawn: https://github.com/thesp0nge/dawnscanner
+
+OWASP Dependency track: https://www.owasp.org/index.php/OWASP_Dependency_Track_Project
+PHP Code Analysis Tools: https://github.com/exakat/php-static-analysis-tools
+OWASP Vulnerable Web Directory: https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project
