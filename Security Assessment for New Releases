@@ -1,0 +1,39 @@
+Arachni Scanner: http://www.arachni-scanner.com/
+Bandit: https://github.com/PyCQA/bandit
+Burp: https://portswigger.net/burp
+Dependency Check: https://www.owasp.org/index.php/OWASP_Dependency_Check
+Nikto: https://cirt.net/nikto2-docs/
+OpenVAS:  http://www.openvas.org/
+Retire.JS:  https://retirejs.github.io/retire.js/
+ssllabs-scan:  https://github.com/ssllabs/ssllabs-scan
+Trufflehog:  https://github.com/dxa4481/truffleHog
+Visual Code Grepper (VCG):  https://github.com/nccgroup/VCG
+ZAP: https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project
+Graudit:  https://github.com/wireghoul/graudit
+Snallygaster:  https://github.com/hannob/snallygaster
+Hping:  http://www.hping.org/
+Masscan:  https://github.com/robertdavidgraham/masscan
+Blueflower: https://github.com/veorq/blueflower
+YARA: https://virustotal.github.io/yara/
+PrivacyScore: http://privacyscore.org/
+WireShark: https://www.wireshark.org/
+SSLyze:  https://github.com/iSECPartners/sslyze
+SSL/TLS tester:  https://testssl.sh/
+LMD (Linux Malware Detection):  https://github.com/rfxn/linux-malware-detect
+CVEChecker:  https://github.com/sjvermeu/cvechecker/wiki
+Pwnloris:  https://github.com/h0ussni/pwnloris
+Slowloris:  https://github.com/gkbrk/slowloris
+Synflood:  https://github.com/TheFox/synflood
+Thc-sll-dos:  https://github.com/azet/thc-tls-dos
+Wreckuests:  https://github.com/JamesJGoodwin/wreckuests
+ntpDOS:  https://github.com/vpnguy/ntpdos
+SQLMap: http://sqlmap.org/
+OpenSCAP: https://www.open-scap.org/
+Docker Bench Security: https://github.com/docker/docker-bench-security
+Clair: https://github.com/coreos/clair
+API Fuzzer: https://github.com/Fuzzapi/API-fuzzer
+Radamsa: https://github.com/aoh/radamsa
+American Fuzzy lop:  http://lcamtuf.coredump.cx/afl/
+FuzzDB: https://github.com/fuzzdb-project/fuzzdb
+Wfuzz: https://github.com/xmendez/wfuzz
+Mobile Security Framework: https://github.com/MobSF/Mobile-Security-Framework-MobSF/
