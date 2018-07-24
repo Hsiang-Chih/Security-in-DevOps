@@ -50,3 +50,6 @@ Dawn: https://github.com/thesp0nge/dawnscanner
 OWASP Dependency track: https://www.owasp.org/index.php/OWASP_Dependency_Track_Project
 PHP Code Analysis Tools: https://github.com/exakat/php-static-analysis-tools
 OWASP Vulnerable Web Directory: https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project
+
+FindSecBugs: https://Find-sec-bugs.github.io/bugs.htm
+List of Banned Functions in C/C++: https://github.com/intel/safestringlib/wiki/SDL-List-of-Banned-Functions
