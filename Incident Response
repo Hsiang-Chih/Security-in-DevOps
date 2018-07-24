@@ -1,0 +1,54 @@
+FIR (Fast Incident Response): https://github.com/certsocietegenerale/FIR
+
+CIS Benchmarks:  https://www.cisecurity.org/cis-benchmarks/
+
+OSX Collector: https://github.com/Yelp/osxcollector 
+
+Incident Response Rescue: https://github.com/diogo-fernan/ir-rescue/ 
+
+FAST Incident Response For Linux: https://github.com/SekoiaLab/Fastir_Collector_Linux 
+
+CalmAV: https://www.calmav.net/downloads
+
+CuckooSandBox: https://cuckoosandbox.org/ 
+
+Google Rapid Response: https://github.com/google/grr
+
+OWASP Dependency-Track https://www.owasp.org/index.php/OWASP_Dependency_Track_Project﻿
+
+Security Onion: https://github.com/Security-Onion-Solutions
+
+OSQuery: https://github.com/facebook/osquery/
+
+Data Vault: https://github.com/hashicorp/vault
+
+Fail2ban: https://github.com/fail2ban/fail2ban/
+
+Cybrary: https://www.cybrary.it/﻿
+
+OpenVAS http://www.openvas.org/
+Nmap https://nmap.org/
+OWASP Dependency Check: https://www.owasp.org/index.php/OWASP_Dependency_Check
+vulscan: https://github.com/scipag/vulscan
+ELK: https://bitnami.com/stack/elk
+GrayLog: https://www.graylog.org/security
+Security Onion: https://github.com/Security-Onion-Solutions
+Malicious Traffic Detection: https://github.com/stamparm/
+ModSecurity: https://www.modsecurity.org/
+Email Encryption Scramble: https://dcposh.github.io/scramble/
+Linux Malware Detection: https://github.com/rfxn/linux-malware-detect
+OSSEC: https://github.com/ossec/
+ClamAV: https://www.clamav.net/
+OpenSCAP: https://www.open-scap.org
+Bacula: https://blog.bacula.org/﻿
+
+CVE: http://cve.mitre.org/
+CWE: http://cwe.mitre.org/
+CPE: http://cpe.mitre.org/
+OVAL: http://oval.mitre.org/
+CAPEC: http://capec.mitre.org/
+CVSS: http://www.first.org/cvss
+
+﻿DumpsterFire: https://github.com/TryCatchHCF/DumpsterFire
+﻿METTA: https://github.com/uber-common/metta
+ 
