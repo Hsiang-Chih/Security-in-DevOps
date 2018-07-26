@@ -32,3 +32,6 @@ NIST SP 800-122 Guide to Protecting the Confidentiality of PII: https://csrc.nis
 ENISA Baseline Security Recommendations for IoT:  https://www.enisa.europa.eu/publications/baseline-security-recommendations-for-iot/at_download/fullReport
 GSMA IOT Security Assessment: https://www.gsma.com/iot/future-iot-networks/iot-security-guidelines/
 NIST 800-190 Application Container Security Guide: https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-190.pdf
+PCI DSS Virtualization Guidelines: https://www.pcisecuritystandards.org/documents/Virtualization_InfoSupp_v2.pdf
+Red Hat Virtualization Security Guide: https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html-single/virtualization_security_guide/index
+SANS Top Virtualization Security Mistakes: https://www.sans.org/reading-room/whitepapers/analyst/top-virtualization-security-mistakes-and-avoid-them-34800
