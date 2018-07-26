@@ -5,3 +5,30 @@ Code-scanning tools: https://github.com/floyd-fuh/crass/blob/master/grep-it.sh
 AuthMatrix: https://github.com/SecurityInnovation/AuthMatrix
 WinHex: https://www.x-ways.net/winhex/
 LaZagne: https://github.com/AlessandroZ/LaZagne﻿
+
+Awesome Malware Analysis: https://github.com/rshipp/awesome-malware-analysis
+﻿LaZagne Password Discovery tools: https://github.com/AlessandroZ/LaZagne
+MITRE ATT&CK: https://attck.mitre.org/wiki/Main_Page
+OWASP Testing Guide: https://www.owasp.org/index.php/OWASP_Testing_Project
+
+Sonar Code Analysis: https://www.sonarqube.org
+Deserialization vulnerability paper: https://www.exploit-db.com/docs/english/44756-deserialization-vulnerability.pdf
+
+GDPR Checklist: https://gdprchecklist.io/
+GitHub Awesome PenTest: https://github.com/enaqx/awesome-pentest/
+﻿PCI pentest guide: https://www.pcisecuritystandards.org/documents/Penetration_Testing_Guidance_March_2015.pdf
+NIST 800-115 pentest: https://csrc.nist.gov/publications/detail/sp/800-115/final
+﻿GSMA IOT Security Assessment: https://www.gsma.com/iot/future-iot-networks/iot-security-guidelines/
+NIST 800-125 Guide to Security for Full Virtualization Technologies: https://csrc.nist.gov/publications/detail/sp/800-125/final
+PCI DSS Virtualization Guidelines: https://www.pcisecuritystandards.org/documents/Virtualization_InfoSupp_v2.pdf
+Red Hat Virtualization Security Guide: https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html-single/virtualization_security_guide/index
+SANS Top Virtualization Security Mistakes: https://www.sans.org/reading-room/whitepapers/analyst/top-virtualization-security-mistakes-and-avoid-them-34800
+ISCACA Virtualization Security checklist: http://www.isaca.org/Knowledge-Center/Research/Documents/Virtualization-Security-Checklist_res_Eng_1010.pdf
+GitHub Awesome firmware security: https://github.com/PreOS-Security/awesome-firmware-security
+GitHub Security of BIOS/UEFI System Firmware from Attacker and Defender Perspectives: https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/BIOS%20UEFI%20Attacks%20Defenses.md
+NIST 1500-4 Big Data Interoperability Framework: https://www.nist.gov/publications/nist-big-data-interoperability-framework-volume-4-security-and-privacy
+CSA Big Data Security and Privacy Handbook: https://downloads.cloudsecurityalliance.org/assets/research/big-data/BigData_Security_and_Privacy_Handbook.pdf
+NIST SP 800-122 Guide to Protecting the Confidentiality of PII: https://csrc.nist.gov/publications/detail/sp/800-122/final
+ENISA Baseline Security Recommendations for IoT:  https://www.enisa.europa.eu/publications/baseline-security-recommendations-for-iot/at_download/fullReport
+GSMA IOT Security Assessment: https://www.gsma.com/iot/future-iot-networks/iot-security-guidelines/
+NIST 800-190 Application Container Security Guide: https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-190.pdf
