@@ -27,3 +27,20 @@ HTML Publisher Plugin: https://plugins.jenkins.io/htmlpublisher
 Log Parser Plugin: https://plugins.jenkins.io/log-parser
 Static Analysis Collector: https://plugins.jenkins.io/analysis-collector
 Jenkins Plugins: https://plugins.jenkins.io/﻿
+
+https://github.com/wireghoul/graudit
+
+http://www.dwheeler.com/falwfinder/
+
+https://github.com/presidentbeef/brakeman
+
+https://www.sonarqube.org/
+
+https://github.com/floyd-fuh/crass/blob/master/grep-it.sh
+
+https://github.com/ajinabraham/NodeJsScan
+
+https://github.com/mozfreddyb/scanjs
+
+http://mozilla.github.io/scanjs/client/#/rules
+https://github.com/PyCQA/bandit
