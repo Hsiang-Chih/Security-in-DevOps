@@ -27,4 +27,35 @@ OWASP Dependency Check: https://www.owasp.org/index.php/OWASP_Dependency_Check
 
 Cuckoo: https://cuckoosandbox.org/
 
+Authentication	
+Gluu: it's for multiple-factor authentication and social login. : https://www.gluu.org/
+CAPTCHA:
+https://github.com/eryx/hcaptcha
+https://github.com/google/recaptcha
+https://github.com/pusuo/patchca
+Protection of sensitive information in source code repositories:
+https://github.com/sobolevn/git-secret
+
+Authorization
+User consent management: https://www.gluu.org/
+Apache Shiro Session Management: https://shiro.apache.org/session-management.html
+OWASP CSRF Guard: https://www.owasp.org/index.php/Category:OWASP_CSRFGuard_Project
+
+API manager
+Kong: https://getkong.org/
+API umbrella: https://github.com/NREL/api-umbrella
+WSO2 API manager: https://github.com/wso2/product-apim
+
+Data input/output
+OWASP HTML Sanitizer Project: https://www.owasp.org/index.php/OWASP_Java_HTML_Sanitizer_Project
+Commons validator: https://commons.apache.org/proper/commons-validator/
+ValidateJS: https://validatejs.org/
+OWASP Java Encoder: https://www.owasp.org/index.php/OWASP_Java_Encoder_Project
+
+Privacy
+Data anonymization tool: http://arx.deidentifier.org/
+Data governance: https://atlas.apache.org/index.html
+Web privacy assessment: http://privacyscore.org/
+Cookie Consent: https://github.com/insites/cookieconsent
+
 
