@@ -1,0 +1,28 @@
+Wazuh: https://github.com/wazuh/wazuh
+Wazuh's rules: https://github.com/wazuh/wazuh-ruleset/tree/master/rules﻿
+https://rules.emergingthreats.net/fwrules/
+https://rules.emergingthreats.net/open/﻿
+https://github.com/SpiderLabs/owasp-modsecurity-crs/tree/v3.0/master/rules
+Syslog-NG: https://github.com/balabit/syslog-ng
+
+Rsyslog: https://github.com/rsyslog/rsyslog
+
+FileBeat: https://www.elastic.co/products/beats/filebeat
+
+LogStash: https://www.elastic.co/products/logstash﻿
+Kibana: https://www.elastic.co/products/kibana
+
+ElasticSearch: https://www.elastic.co/
+
+AlienValut OSSIM: https://www.alienvault.com/products/ossim
+
+Grafana: https://grafana.com/
+
+GrayLog: https://www.graylog.org/﻿
+http://www.misp-project.org
+http://csirtgadgets.org/collective-intelligence-framework/﻿
+https://rules.emergingthreats.net/fwrules/
+https://www.spamhaus.org/drop/
+https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt
+https://check.torproject.org/exit-addresses
+http://iplists.firehol.org/﻿
