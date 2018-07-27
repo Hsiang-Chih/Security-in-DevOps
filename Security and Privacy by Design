@@ -71,5 +71,22 @@ CWE-384 Session Fixation: https://cwe.mitre.org/data/definitions/384.html
 CWE-488 Exposure of Data Element to the Wrong Session: https://cwe.mitre.org/data/definitions/488.html
 CWE-613 Insufficient Session Expiration: https://cwe.mitre.org/data/definitions/613.html
 
+Privacy design patterns: https://privacypatterns.org/patterns/
+NIST SP 800-122 Guide to Protecting the Confidentiality of PII: https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-122.pdf
+
+Data anonymization tool: http://arx.deidentifier.org/
+
+
+Data governance: https://atlas.apache.org/index.html
+
+Web privacy assessment:
+http://privacyscore.org/
+https://github.com/PrivacyScore/PrivacyScore
+https://webbkoll.dataskydd.net/en/
+https://github.com/andersju/webbkoll
+
+Cookie Consent: https://github.com/insites/cookieconsent
+
+
 
 
