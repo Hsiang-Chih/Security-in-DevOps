@@ -26,3 +26,27 @@ https://www.spamhaus.org/drop/
 https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt
 https://check.torproject.org/exit-addresses
 http://iplists.firehol.org/﻿
+
+Wazuh host IDS rules: https://github.com/wazuh/wazuh-ruleset/tree/master/rules
+OSSEC host IDS rules: https://github.com/ossec/ossec-hids/tree/master/etc/rules
+ModSecurity WAF rules: https://github.com/SpiderLabs/owasp-modsecurity-crs/tree/v3.0/master/rules
+Suricata network IDS/IPS rules: https://github.com/OISF/suricata/tree/master/rules
+Snort network IDS/IPS rules: https://snort.org/advisories/talos-rules-2018-06-05
+OpenSCAP: https://www.open-scap.org/
+OpenVAS: http://www.openvas.org/
+CalmAV: https://www.clamav.net/
+LMD: https://github.com/rfxn/linux-malware-detect
+OSSEC: https://github.com/ossec/ossec-hids
+OSSEC host IDS rules: https://github.com/ossec/ossec-hids/tree/master/etc/rules
+Samhain:  https://www.la-samhna.de/samhain/
+
+ModSecurity: https://github.com/SpiderLabs/ModSecurity
+ModSecurity rules: https://github.com/SpiderLabs/owasp-modsecurity-crs/tree/v3.0/master/rules
+
+Snort: https://www.snort.org/
+Snort rules: https://snort.org/advisories/talos-rules-2018-06-05
+Suricata: https://suricata-ids.org/
+Suricata rules: https://github.com/OISF/suricata/tree/master/rules
+
+AUDIT plugin for MySQL: https://github.com/mcafee/mysql-audit
+Security plugins for MySQL: https://dev.mysql.com/doc/mysql-security-excerpt/5.7/en/security-plugins.html
