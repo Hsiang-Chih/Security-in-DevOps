@@ -1,6 +1,7 @@
 {
   "summary": {
-    "title": "myTitle"
+    "title": "myTitle",
+    "description": "high level"
   },
   "detail": {
     "contributors": [],
