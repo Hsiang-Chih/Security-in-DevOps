@@ -1,0 +1,10 @@
+This includes the Selenium DDT sample script
+
+
+1. Sign_DDT.py
+2. sqli.csv
+
+The 'Sign_DDT'.py will read the sqli.csv for security testing against 'http://demo.testfire.net/bank/login.aspx'
+To execute the script by using seleniumbase
+
+pytest  Sign_DDt.py   --browser=chrome  
