@@ -8,6 +8,6 @@ The 'Sign_DDT'.py will read the sqli.csv for security testing against 'http://de
 
 To execute the script by using seleniumbase
 
-pytest  Sign_DDT.py   --browser=chrome  
+pytest  SignIn_DDT.py   --browser=chrome  
 
 
