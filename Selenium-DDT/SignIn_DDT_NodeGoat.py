@@ -11,6 +11,7 @@ import unittest, time, re
 
 @ddt
 class NodeGoatSignIn(unittest.TestCase):
+	# 
     def get_csv_data(csv_path):
         rows = []
         csv_data = open(str(csv_path), "rb")
@@ -27,11 +28,11 @@ class NodeGoatSignIn(unittest.TestCase):
         self.verificationErrors = []
         self.accept_next_alert = True
     
+	# The @data and @unpack will help to read all the data in the 'sqli.csv' for the testing loop of the test_sign_in method
     @data(*get_csv_data("sqli.csv"))
     @unpack
-    def test_fire_sign_in(self, username, password):
+    def test_sign_in(self, username, password):
         driver = self.driver
-       
      
         driver.get("http://nodegoat.herokuapp.com/login")
         driver.find_element_by_id("userName").click()
